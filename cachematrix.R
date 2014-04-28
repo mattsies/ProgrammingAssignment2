@@ -1,4 +1,3 @@
-## Put comments here that give an overall description of what your
 ## There are two funcitons below: makeCacheMatrix and cachesolve. The former
 ## creates a special "matrix" object that can cache its inverse. The latter
 ## computes the inverse of the special "matrix" returned by makeCacheMatrix above. 
